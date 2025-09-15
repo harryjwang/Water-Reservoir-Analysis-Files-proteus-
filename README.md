@@ -1,2 +1,10 @@
 # Water-Reservoir-Analysis-Files-proteus-
-Simulated an RS-style adapter (RS-232/RS-485) in Proteus, complete with schematic, MCU model, and backups.
+A communication system prototyping project in Proteus:
+
+Project file: ECE298_RS_Adapter.pdsprj.
+
+Includes schematic + MCU integration.
+
+Allows firmware linking for simulation.
+
+Useful for pre-hardware testing of serial interfaces.
